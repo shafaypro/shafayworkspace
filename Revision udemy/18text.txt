@@ -1,0 +1,2 @@
+
+ This is the Writin a nes thing to a file What was that it is an appending funcitoon

@@ -1,0 +1,97 @@
+body
+{
+margin: 0px;
+font-family: 'Old English',sans-serif,bold;
+}
+
+.main{
+
+height: 1000px;
+background-image:url(http://www.hdwallpapers3d.com/wp-content/uploads/2013/06/1920x1080-best-desktop-wallpapers-1317567030.jpg);
+background-position: center center;
+background-repeat: no-repeat;
+background-size:cover;
+}
+@media screen and (min-width:1000px)
+{#container
+{
+	height: 1000px;
+	width: 1000px;
+	margin: 0 auto;
+}}
+.header { margin-top : 0px;
+  width : 1000px;
+}
+.logo
+{
+margin-top: 10px;
+width : 80px;
+}
+nav {
+float: rigth;
+margin-left:350px;
+margin-top:26px;
+}
+.navbar
+{
+color:#fff;
+font-size: 20px;
+margin-left:25px;
+text-decoration:none;
+}
+.navbar:hover
+{
+text-decoration:underline;
+color:#aaa;
+font-weight:10px;
+}
+span
+{
+width:100%;
+text-align:center;
+}
+h1
+{
+font-size:80px;
+color:#fff;
+text-align:center;
+clear:both;
+padding-top:60px
+}
+h2
+{font-size:30px;
+color:#fff;
+text-align:center;
+clear:both;
+}
+h1:hover
+{
+  color:#000;
+}
+h2:hover
+{
+  color:#000;
+}
+h3:hover{color:#000;}
+
+#skill_section
+{
+color:#fff;
+transparent:true;
+}
+#skill_section:hover
+{
+color:#000;
+
+}
+p{color:#fff;
+font-family:bold;
+font-size:20px;}
+p:hover
+{color:#000;}
+h6
+{
+text-align:center;
+margin-top:550px;
+color:#aaa;
+}
